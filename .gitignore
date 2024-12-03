@@ -1,1 +1,8 @@
 __pycache__/
+.idea/.gitignore
+.idea/boilerplate-mean-variance-standard-deviation-calculator.iml
+.idea/git_toolbox_blame.xml
+.idea/material_theme_project_new.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
